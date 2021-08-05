@@ -1,4 +1,4 @@
-# flask_test
+# Flask Spline Web Service
 In this project, an image is uploaded into a web service and a spline is drawn on top of
 it using three basic spline parameters, namely t, c and k. The spline is drawn using Scipy
 and Matplotlib libraries.
